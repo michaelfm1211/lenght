@@ -1,0 +1,14 @@
+{
+  "name": "lenght",
+  "version": "1.0.0",
+  "description": "aliases the .length property to .lenght",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [
+    "joke"
+  ],
+  "author": "Michael M.",
+  "license": "ISC"
+}
